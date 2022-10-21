@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Sadik\\OneDrive\\Jijoty Office\\Asp.Net Sample App With MSSQL\\K8STestAppSln\\K8STestApp\\K8STestApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Sadik\\OneDrive\\Jijoty Office\\Asp.Net Sample App With MSSQL\\K8STestAppSln\\K8STestApp\\K8STestApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sadik\\OneDrive\\Jijoty Office\\Asp.Net Sample App With MSSQL\\K8STestAppSln\\K8STestApp\\K8STestApp.csproj",
+        "projectName": "K8STestApp",
+        "projectPath": "D:\\Sadik\\OneDrive\\Jijoty Office\\Asp.Net Sample App With MSSQL\\K8STestAppSln\\K8STestApp\\K8STestApp.csproj",
+        "packagesPath": "C:\\Users\\Sadik\\.nuget\\packages\\",
+        "outputPath": "D:\\Sadik\\OneDrive\\Jijoty Office\\Asp.Net Sample App With MSSQL\\K8STestAppSln\\K8STestApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sadik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

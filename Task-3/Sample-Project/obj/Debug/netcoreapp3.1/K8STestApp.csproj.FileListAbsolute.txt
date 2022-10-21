@@ -1,0 +1,135 @@
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.exe
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.deps.json
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.runtimeconfig.json
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.dll
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.pdb
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.Views.dll
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.Views.pdb
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.AssemblyInfo.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\staticwebassets\K8STestApp.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\staticwebassets\K8STestApp.StaticWebAssets.xml
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\K8STestApp.styles.css
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.TagHelpers.input.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.TagHelpers.output.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorCoreGenerate.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\LogIn.cshtml.g.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorTargetAssemblyInfo.cs
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.Views.pdb
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.dll
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.pdb
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.genruntimeconfig.cache
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.csproj.CopyComplete
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.exe
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.deps.json
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.runtimeconfig.json
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.runtimeconfig.dev.json
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.pdb
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.Views.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.Views.pdb
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.csproj.AssemblyReference.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.AssemblyInfoInputs.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.AssemblyInfo.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.csproj.CoreCompileInputs.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorAssemblyInfo.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorAssemblyInfo.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\staticwebassets\K8STestApp.StaticWebAssets.Manifest.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\staticwebassets\K8STestApp.StaticWebAssets.xml
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\K8STestApp.styles.css
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.TagHelpers.input.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.TagHelpers.output.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorCoreGenerate.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\LogIn.cshtml.g.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorTargetAssemblyInfo.cache
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorTargetAssemblyInfo.cs
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.Views.pdb
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.csproj.CopyComplete
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.dll
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.pdb
+D:\asp.net\Sample Application with database\K8STestAppSln\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.genruntimeconfig.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.exe
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.deps.json
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.runtimeconfig.json
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.runtimeconfig.dev.json
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.dll
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.pdb
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.Views.dll
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\K8STestApp.Views.pdb
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.csproj.AssemblyReference.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.AssemblyInfoInputs.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.AssemblyInfo.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.csproj.CoreCompileInputs.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorAssemblyInfo.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorAssemblyInfo.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\staticwebassets\K8STestApp.StaticWebAssets.Manifest.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\staticwebassets\K8STestApp.StaticWebAssets.xml
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\K8STestApp.styles.css
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.TagHelpers.input.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.TagHelpers.output.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorCoreGenerate.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\LogIn.cshtml.g.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorTargetAssemblyInfo.cache
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.RazorTargetAssemblyInfo.cs
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.Views.pdb
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.csproj.CopyComplete
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.dll
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.pdb
+D:\Sadik\OneDrive\Jijoty Office\Asp.Net Sample App With MSSQL\K8STestAppSln\K8STestApp\obj\Debug\netcoreapp3.1\K8STestApp.genruntimeconfig.cache
