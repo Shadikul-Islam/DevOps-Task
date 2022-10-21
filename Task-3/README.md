@@ -6,6 +6,7 @@
 | 02 | [Application Setup and Dockerize the Application & Database](#02) |
 | 03 | [Create Image from Container and Push into Dockerhub](#03) |
 | 04 | [Deploy into Kubernetes Cluster](#04) |
+| 05 | [Network Connection Within the Cluster](#05) |
 
 ### <a name="01">:diamond_shape_with_a_dot_inside: &nbsp;Introduction</a>
 We will first dockerize an ASP.NET Core Application with Microsoft SQL Server Database then we will push the images into dockerhub repository. And finally we will Deploy ASP.NET Core Application with Microsoft SQL Server Database in Kubernetes Cluster in **Azure Kubernetes Service**. So let's begin.
