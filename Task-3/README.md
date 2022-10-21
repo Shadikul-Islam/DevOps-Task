@@ -160,7 +160,7 @@ spec:
     spec:
       containers:
       - name: dotnetappcon
-        image: shadikul/dot-net-core-app:v3
+        image: shadikul/dot-net-core-app:v1
         resources:
         ports:
         - containerPort: 80
