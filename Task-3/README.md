@@ -191,8 +191,7 @@ spec:
         - containerPort: 1433
 ````
 - Now run this command to apply this manifest into Kubernetes: ````kubectl apply -f Deployment-App.yml```` and ````kubectl apply -f Deployment-DB.yml````. We can see the pods by running this ```kubectl get pods``` command.
-  <br> <br> <img src= "https://github.com/Shadikul-Islam/DevOps-Task/blob/master/Task-3/Images/Image-Pods.png" alt="List of pods"> <br>
-- **Prepare a NodePort YAML File**
+
   Now our second step is to prepare a NodePort manifest file. NodePort will create a network connection between pods and give the advantage to browse it from the internet using its defined port.
 
    **NodePort.yml:**
