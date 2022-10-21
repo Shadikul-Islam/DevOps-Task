@@ -20,7 +20,7 @@ So to do this task I will use **Terraform** for IAC and **AWS** for a IaaS platf
 ### <a name="02">:diamond_shape_with_a_dot_inside: &nbsp;Steps to Create Infrastructure</a>
 
 1. **AWS Authentication:** To authenticate I have used Programmatic API Keys (Access Key and Secret). This key I have created from AWS console.
-2. **Terraform Files:** I have created two files. One is **main.tf** and other one is **provider.tf**. These two are my terraform configuration file to create infrastructure from aws.
+2. **Terraform Files:** I have created two files. One is [main.tf](https://github.com/Shadikul-Islam/DevOps-Task/blob/master/Task-1/Main/main.tf) and other one is [provider.tf](https://github.com/Shadikul-Islam/DevOps-Task/blob/master/Task-1/Provider-Configuration/provider.tf). These two are my terraform configuration file to create infrastructure from aws.
 3. **Terraform Files Apply:** 
    - Execute the command ```terraform init``` to initialize.
    - Execute the command ```terraform plan``` to check what change would be made.
