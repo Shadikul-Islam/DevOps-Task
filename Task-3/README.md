@@ -140,6 +140,7 @@ We have successfully created our containers image and upload it into my dockerhu
   - Configure kubectl to connect to your Kubernetes cluster using this ```az aks get-credentials --resource-group myResourceGroup --name myAKSCluster``` command.
   - Verify the connection to the cluster using the ```kubectl get nodes``` command. This command returns a list of the cluster nodes.
 - Our k8s environment is ready. Now We will prepare a deployment manifest to create pods. We need to create two pods, the first one is for the application and the second one is for the database.
+
   **Deployment-App.yml:** 
 
 ````
@@ -220,6 +221,7 @@ spec:
 <br> <br> <img src= "https://github.com/Shadikul-Islam/DevOps-Task/blob/master/Task-3/Images/Image-Nodeport.png" alt="Application in NodePort"> <br>
 - **Prepare a Ingress YAML File:**
   Setup the Ingress in Kubernetes: ````minikube addons enable ingress````.
+  
   **Ingress.yml**
 ````
 apiVersion: networking.k8s.io/v1
