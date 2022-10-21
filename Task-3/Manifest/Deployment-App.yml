@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dotnetapp
+spec:
+  selector:
+    matchLabels:
+      name: myapp
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        name: myapp
+    spec:
+      containers:
+      - name: dotnetappcon
+        image: shadikul/dot-net-core-app:v3
+        resources:
+        ports:
+        - containerPort: 80

@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: dotnet-nodeport
+spec:
+  selector:
+    name: myapp
+  type: NodePort
+  ports:
+  - name: http
+    port: 80
+    targetPort: 80
+    nodePort: 30000
+    protocol: TCP
+  - name: db
+    protocol: TCP
+    port: 1433
+    targetPort: 1433
+    nodePort: 30001

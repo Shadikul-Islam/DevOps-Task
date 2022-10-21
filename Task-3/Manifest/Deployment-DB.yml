@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dotnetdb
+spec:
+  selector:
+    matchLabels:
+      name: myapp
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        name: myapp
+    spec:
+      containers:
+      - name: db
+        image: shadikul/dot-net-core-db:v1
+        resources:
+        ports:
+        - containerPort: 1433
